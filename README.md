@@ -7,3 +7,4 @@
 * **Known Issues & Gotchas:**
   * **Combat Lockout (Taint):** Attempting to modify protected Blizzard frame attributes or anchors while actively engaged in combat will trigger Lua errors or block execution.
   * **Layout Reset on Patch Updates:** Interface scaling updates or game client refreshes can occasionally invalidate saved coordinate anchors, requiring a reset to default positions.
+![Uploading image.png…]()
