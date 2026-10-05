@@ -1,7 +1,7 @@
 ### FrameTweaker
 * **Description:** A lightweight utility addon enabling repositioning, scaling, and visual tweaks for locked Blizzard UI frames (such as unit frames, casting bars, and micro menus) on the 2.5.3 client.
 * **How to Use:**
-  1. Unlock frames via the addon's configuration toggle.
+  1. Unlock frames via the addon's configuration toggle. `/ft`
   2. Drag frames to your desired position on the screen.
   3. Settings are automatically saved to your account/character `SavedVariables`.
 * **Known Issues & Gotchas:**
