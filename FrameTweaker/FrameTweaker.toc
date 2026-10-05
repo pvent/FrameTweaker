@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: FrameTweaker
+## Notes: Position, scale, drag, and tweak UI frames with persistent savings.
+## Author: Clunker
+## SavedVariables: FrameTweakerDB
+
+FrameTweaker.lua
